@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/25 20:07:39.000.497,=H:\Code\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 10:03:45.000.728,=H:\Code\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 10:08:06.000.828,H:\Code\Delphi\Unit1.pas=H:\Code\Delphi\App04\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 10:08:06.000.828,H:\Code\Delphi\Unit1.dfm=H:\Code\Delphi\App04\Unit1.dfm</Transaction>
+    <Transaction>2021/06/26 10:08:08.000.434,H:\Code\Delphi\Project1.dproj=H:\Code\Delphi\App04\Project1.dproj</Transaction>
+    <Transaction>2021/06/26 10:17:36.000.365,H:\Code\Delphi\App04\Project1.dproj=H:\Code\Delphi\App04\AppDemo.dproj</Transaction>
+    <Transaction>2021/06/26 10:59:33.000.864,=H:\Code\Delphi\App04\OKCANCL2.pas</Transaction>
+    <Transaction>2021/06/26 10:59:36.000.235,=H:\Code\Delphi\App04\OKCANCL.pas</Transaction>
+    <Transaction>2021/06/26 10:59:52.000.199,=H:\Code\Delphi\App04\OKCANCL1.pas</Transaction>
+    <Transaction>2021/06/26 11:29:28.000.842,H:\Code\Delphi\App04\Happ.dproj=H:\Code\Delphi\App04\AppDemo.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

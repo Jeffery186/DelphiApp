@@ -1,0 +1,65 @@
+object Form1: TForm1
+  Left = 270
+  Top = 133
+  Caption = #20581#24247#31649#23478' By:zhi'
+  ClientHeight = 202
+  ClientWidth = 447
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesigned
+  DesignSize = (
+    447
+    202)
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    AlignWithMargins = True
+    Left = 3
+    Top = 3
+    Width = 441
+    Height = 84
+    Align = alTop
+    Alignment = taCenter
+    Caption = 
+      #28857#20987#24320#22987#25353#38062#65292#31243#24207#20250#27599#38548'40'#20998#38047#24377#20986#19968#27425#28040#24687#31383#21475#25552#31034#20320#20241#24687#65292#19981#20351#29992#26102#28857#20987#20572#27490#25110#32773#30452#25509#20851#38381#31243#24207#65292#31532#19968#27425#28857#20987#24320#22987#38190#20250#24377#20986#19968#27425#65292#28982#21518#23601 +
+      #26159#27599#38548'40'#20998#38047#21518#24377#19968#27425#12290
+    Font.Charset = GB2312_CHARSET
+    Font.Color = clGreen
+    Font.Height = -21
+    Font.Name = #24188#22278
+    Font.Style = []
+    ParentFont = False
+    WordWrap = True
+    ExplicitWidth = 440
+  end
+  object Button1: TButton
+    Left = 24
+    Top = 152
+    Width = 75
+    Height = 25
+    Caption = #24320#22987
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 350
+    Top = 152
+    Width = 75
+    Height = 25
+    Anchors = [akTop, akRight]
+    Caption = #20572#27490
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+  object Timer1: TTimer
+    Interval = 2400000
+    OnTimer = Button1Click
+    Left = 208
+    Top = 168
+  end
+end
